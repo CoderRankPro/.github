@@ -1,4 +1,4 @@
-# Alphaisans
+# CoderRankPro
 
 <p align="center">
   <img src="https://github.com/CoderRankPro/.github/blob/main/assets/CoderRankPro.png" height="200" width="200">
