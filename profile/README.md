@@ -16,16 +16,16 @@
 </p>
 <h4>
   Welcome to CoderRankPro!
-  CoderRankPro is an Open Source community aimed at encouraging and promoting communication, best practices and technical expertise in an inclusive and welcoming environment.
+   CoderRankPro is a solution for sustainability issues of creators activities, it is designed for the blockchain solution and enhance creators to grow their economy. We love $DEV and Stakes.social. Dev Protocol is not a single platform, it’s a middleware. Dev Protocol is completely decentralized and is a middleware protocol for on-chain governance, anyone can join the ecosystem by developing various Dapps. Dev Protocol is not closed to OSS, but can bring value to all open assets such as research papers, YouTube videos, and Spotify music. Dev Protocol integrates with these markets so that projects or creators can authenticate and tokenize their work. Developers and Sponsors both are rewarded with Tokens
 </h4>
 
-### Discord 
+### Discord
+
 - Everything here is related to our [Discord server](https://discord.gg/bTUVVq83BB), so you should definitely head over there too!
 
 ### GitHub Organisation
 
 - If you want you can raise an [issue to join the CoderRankPro GitHub organisation](https://github.com/CoderRankPro/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) and we will invite you as soon as possible.
-
 
 <!-- readme: contributors -start -->
 
