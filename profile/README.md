@@ -1,10 +1,10 @@
 # Alphaisans
 
 <p align="center">
-  <img src="https://github.com/Alphasians/.github/blob/main/assets/Alphasians.png" height="200" width="200">
+  <img src="https://github.com/CoderRankPro/.github/blob/main/assets/CoderRankPro.png" height="200" width="200">
   <br>
   
-  <a href="https://github.com/alphasians" alt="Alphasians contributors">
+  <a href="https://github.com/alphasians" alt="CoderRankPro contributors">
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/alphasians/aina-reglia"></a>
 
   <a href="https://discord.gg/bTUVVq83BB" alt="Discord">
@@ -15,8 +15,8 @@
 
 </p>
 <h4>
-  Welcome to Alphasians!
-  Alphasians is an Open Source community aimed at encouraging and promoting communication, best practices and technical expertise in an inclusive and welcoming environment.
+  Welcome to CoderRankPro!
+  CoderRankPro is an Open Source community aimed at encouraging and promoting communication, best practices and technical expertise in an inclusive and welcoming environment.
 </h4>
 
 ### Discord 
@@ -24,7 +24,7 @@
 
 ### GitHub Organisation
 
-- If you want you can raise an [issue to join the Alphasians GitHub organisation](https://github.com/Alphasians/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) and we will invite you as soon as possible.
+- If you want you can raise an [issue to join the CoderRankPro GitHub organisation](https://github.com/CoderRankPro/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) and we will invite you as soon as possible.
 
 
 <!-- readme: contributors -start -->
