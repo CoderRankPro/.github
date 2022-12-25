@@ -15,8 +15,7 @@
 
 </p>
 <h4>
-  Welcome to CoderRankPro!
-   CoderRankPro is a solution for sustainability issues of creators activities, it is designed for the blockchain solution and enhance creators to grow their economy. We love $DEV and Stakes.social. Dev Protocol is not a single platform, it’s a middleware. Dev Protocol is completely decentralized and is a middleware protocol for on-chain governance, anyone can join the ecosystem by developing various Dapps. Dev Protocol is not closed to OSS, but can bring value to all open assets such as research papers, YouTube videos, and Spotify music. Dev Protocol integrates with these markets so that projects or creators can authenticate and tokenize their work. Developers and Sponsors both are rewarded with Tokens
+  Welcome to CoderRankPro! CoderRankPro is a solution for sustainability issues of creators activities, it is designed for the blockchain solution and enhance creators to grow their economy. 
 </h4>
 
 ### Discord
