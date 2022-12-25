@@ -1,5 +1,9 @@
 # CoderRankPro
 
+<p align="center">
+  <img src="https://github.com/CoderRankPro/.github/blob/main/assets/CoderRankPro.png" height="200" width="200">
+  <br>
+</p>
 <h4>
   Welcome to CoderRankPro! CoderRankPro is a solution for sustainability issues of creators activities, it is designed for the blockchain solution and enhance creators to grow their economy. 
 </h4>
